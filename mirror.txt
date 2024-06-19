@@ -532,3 +532,4 @@ registry.k8s.io/sig-storage/nfsplugin
 registry.k8s.io/sig-storage/smbplugin
 registry.k8s.io/sig-storage/snapshot-controller
 registry.k8s.io/test-webserver
+docker.io/xiaoyaliu/alist:hostmode
