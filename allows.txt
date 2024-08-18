@@ -662,3 +662,4 @@ registry.k8s.io/**
 registry.opensource.zalan.do/**
 registry.rocket.chat/**
 rocks.canonical.com/**
+docker.io/zishuo/embyserver
